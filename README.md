@@ -12,7 +12,7 @@ Unity-разработчик с опытом более 2 лет в создан
 ---
 
 ## Навыки
-- **Unity** (включая PhotonEngine)
+- **Unity** 
 - **C#**
 - **Android**
 - **Git**
@@ -75,7 +75,7 @@ A Unity developer with over 2 years of experience in creating game mechanics and
 ---
 
 ## Skills
-- **Unity** (including PhotonEngine)
+- **Unity** 
 - **C#**
 - **Android**
 - **Git**
