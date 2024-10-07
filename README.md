@@ -59,6 +59,7 @@ Unity-разработчик с опытом более 2 лет в создан
 
 ## Языки
 - Русский — родной
+- English - B1
 
 # Denis Orlov
 
@@ -121,3 +122,4 @@ Brief description of project 2 and my role in its implementation.
 
 ## Languages
 - Russian — Native
+- English - B1
